@@ -30,11 +30,6 @@ const questions = [
         options: ["Por favor", "Desculpe", "Obrigado", "Bom dia"],
         answer: "Obrigado"
     },
-    {
-        question: "Qual é a tradução de 'book'?",
-        options: ["Livro", "Caderno", "Mesa", "Caneta"],
-        answer: "Livro"
-      },
       {
         question: "Qual é a tradução de 'house'?",
         options: ["Casa", "Apartamento", "Edifício", "Rua"],
@@ -44,11 +39,6 @@ const questions = [
         question: "Qual é a tradução de 'apple'?",
         options: ["Maçã", "Banana", "Laranja", "Pera"],
         answer: "Maçã"
-      },
-      {
-        question: "Qual é a tradução de 'dog'?",
-        options: ["Cachorro", "Gato", "Cavalo", "Pássaro"],
-        answer: "Cachorro"
       },
       {
         question: "Qual é a tradução de 'hello'?",
